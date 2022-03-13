@@ -1,0 +1,62 @@
+
+.sum{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    
+
+    
+
+}
+.navbar{
+    margin-left: 1rem;
+    color: black;
+    font-size: 50px;
+    font-weight: bolder;
+    height: 10px;
+}
+
+
+
+
+
+.item{
+    display: flex;
+}
+    
+.ul{
+    display: flex;
+    margin: 25px;
+    list-style-type: none;
+    text-decoration: none;
+   
+
+}
+li{
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    
+}
+a:hover,
+a:active{
+
+    color: blue;
+}
+.title
+{
+    padding-top: 170px;
+    padding-left: 10px;
+    color: white;
+    
+
+}
+
+    
+
+

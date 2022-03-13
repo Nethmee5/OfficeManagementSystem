@@ -1,0 +1,38 @@
+.main-login{
+
+    background-image: url(../images/bg\ image.jpg);
+    margin: 0;
+    padding: 0;
+    background-color: #cccccc; 
+    height: 565px; 
+    background-position: center;  
+    background-repeat: no-repeat; 
+    background-size: cover;
+    
+
+  
+    
+
+}
+.frame{
+    display: flex;
+    margin-left: 350px;
+  
+    flex-direction: column;
+    height: 100vh;
+    width: 35vw;
+    background: rgba(199, 194, 194, 0.555);
+    box-shadow: 0 8px 32px 0 rgba(135, 52, 31, 0.37);
+    color: black;
+    letter-spacing: 0.4rem;
+
+
+
+}
+.title-login{
+  padding-left: 120px;
+  padding-top: 100px;
+  font-weight: bold;
+  font-size: 20px
+  
+};

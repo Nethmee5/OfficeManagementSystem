@@ -1,0 +1,37 @@
+.leftside,.rightside{
+
+  height: 100vh;
+  width: 100%;
+}
+
+.leftside{
+  background-color: white;
+  width: 10px;
+  
+}
+.rightside{
+  
+  background-image: url(../images/abt-us-img.jpg);
+  margin: 0;
+  padding: 0;
+  background-position: center;  
+  background-repeat: no-repeat; 
+  background-size: cover;
+  
+
+}
+.text{
+ 
+  padding-top: 250px;
+  padding-left: 230px;
+  font-size: 50px;
+  color: black;
+}
+.description{
+  align-content: center;
+  padding-top: 200px;
+  padding-left: 10px;
+  font-size: 20px;
+ font-weight: bolder;
+  
+}

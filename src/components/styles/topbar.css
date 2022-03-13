@@ -1,0 +1,54 @@
+.sum1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    
+
+}
+.topbar{
+ 
+    color: white;
+    font-size: 12px;
+    height: 65px;
+    
+
+    
+}
+#fb{
+    background-image: url(../images/fb_icon.png);
+    
+    width: 30px;
+   
+ 
+}
+
+#LOGO{
+    
+    background-image: url(../images/irr\ logo.jpg);
+    
+}
+
+#name{
+   
+    
+
+}
+#email{
+    color: white;
+    padding-left: 100px;
+    padding-top: 5px;
+    margin-top: 0;
+    
+}
+#phone
+{
+    padding-left: 100px;
+    padding-top: 5px;
+    margin-top: 0;
+    
+
+}
+
+
+
